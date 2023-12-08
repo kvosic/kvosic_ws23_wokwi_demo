@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
 
-Demo project implemented in Wokwi for KV Integrated Circuit Design, WS 2023. (c) Harald Pretl, IIC@JKU.
+Demo project implemented in **Wokwi** for KV Integrated Circuit Design, WS 2023. (c) Harald Pretl, IIC@JKU.
 
 ## Description
 
